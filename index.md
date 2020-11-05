@@ -17,5 +17,5 @@ The system consists of following components:
 # Learn more
 - Watch the [video](https://www.youtube.com/watch?v=YLxVx1kSe4M)
 - Visit the [hackathon project page](https://hack.ethglobal.co/showcase/covereth-recUTQJKsoK9G34JS) 
-- Feel free to reach out to hello (AT) coverETH.com
+- Reach out to us at hello (AT) coverETH.com
 
