@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# CoverETH
+A platform to match people and groups who need and who perform security audits for smart contracts along with an insurance to cover potential risks.
 
-You can use the [editor on GitHub](https://github.com/covereth/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CoverETH was created at the [ETHOnline Hackathon](https://ethonline.org) and aims to improve the quality of smart contracts that are deployed to the network by making security reviews accessible to projects of all sizes and providing insurance for the residual risk. 
+For future reviewers it solves the problem of bootstrapping allowing them to build their reputation and access higher value projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is enabled by carefully aligning the incentives of the actors on the platform. 
 
-### Markdown
+The system consists of following components:
+- Staking: Each party needs to add a stake to ensure they are invested in having their contract reviewed or reviewing a contract and are acting in good faith.
+- Auction: The auction is designed to give bidders an incentive to bid their true value. Over time, this will help determine the fair price for a review in the market.
+- Reputation: Reviewers increase their reputation by performing reviews of contracts that hold over time. This reduces the barriers to performing more complex reviews and gaining access to higher value tasks. This introduces transparency into the reputation building process.
+- Insurance: To account for the residual risk of an audit and adjusted for the risk preferences of the actors, an insurance pool adds additional coverage, and efficiencies by opening up the market further. A reviewer wishing to increase their reputation could contribute a higher proportion of their fee to cover for risks, to perform an audit at the next higher level.
+- Interest:  While the staking and insurance mechanisms ensure that the right amounts are reserved or released, the stakes and insurance pool yield interest and any surplus that is not tied through a prior interaction may be withdrawn at any time. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To learn more, feel free to reach out to hello (AT) coverETH.com
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/covereth/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
