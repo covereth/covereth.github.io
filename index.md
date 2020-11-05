@@ -1,5 +1,6 @@
-# Concept
 A platform to match people and groups who need and who perform security audits for smart contracts along with an insurance to cover potential risks.
+
+# Concept
 
 CoverETH was created at the [ETHOnline Hackathon](https://ethonline.org) and aims to improve the quality of smart contracts that are deployed to the network by making security reviews accessible to projects of all sizes and providing insurance for the residual risk. 
 For future reviewers it solves the problem of bootstrapping allowing them to build their reputation and access higher value projects. 
