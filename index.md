@@ -13,5 +13,5 @@ The system consists of following components:
 - Insurance: To account for the residual risk of an audit and adjusted for the risk preferences of the actors, an insurance pool adds additional coverage, and efficiencies by opening up the market further. A reviewer wishing to increase their reputation could contribute a higher proportion of their fee to cover for risks, to perform an audit at the next higher level.
 - Interest:  While the staking and insurance mechanisms ensure that the right amounts are reserved or released, the stakes and insurance pool yield interest and any surplus that is not tied through a prior interaction may be withdrawn at any time. 
 
-To learn more, feel free to reach out to hello (AT) coverETH.com
+To learn more, watch the [video](https://www.youtube.com/watch?v=YLxVx1kSe4M), visit the [hackathon project page](https://hack.ethglobal.co/showcase/covereth-recUTQJKsoK9G34JS) and feel free to reach out to hello (AT) coverETH.com.
 
